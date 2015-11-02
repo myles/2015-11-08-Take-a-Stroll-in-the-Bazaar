@@ -9,3 +9,8 @@ slidenumbers: true
 
 ---
 
+# Push your code under reversion control
+
+* GitHub
+* BitBucket
+* LaunchPad
