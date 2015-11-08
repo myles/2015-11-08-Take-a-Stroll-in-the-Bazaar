@@ -237,6 +237,8 @@ $ python setup.py test
 
 # Thank You for Your Time
 
+* <https://github.com/myles/2015-11-08-Take-a-Stroll-in-the-Bazaar>
+
 ---
 
 # Contact Me
