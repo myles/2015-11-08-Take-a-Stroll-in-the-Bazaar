@@ -68,7 +68,7 @@
 
 ---
 
-# [fit] Eight Open Source
+# [fit] Ten Open Source
 
 # [fit] Commandments
 
@@ -149,6 +149,28 @@ $ python setup.py test
 
 ---
 
+# [fit] Issue Tracker
+
+^ Go for keeping track of issues and feature requests you create and recive.
+
+^ Also good for you contributors to see where they can start.
+
+---
+
+# [fit] 5
+
+---
+
+# [fit] Changelog
+
+^ Keep a changelog of changes that are made pre release.
+
+---
+
+# [fit] 6
+
+---
+
 # [fit] Continuous Integration
 
 ^ Now that you have your unit tests you should have some automative way of testing your code and any PRs you might receive.
@@ -167,7 +189,7 @@ $ python setup.py test
 
 ---
 
-# [fit] 5
+# [fit] 7
 
 ---
 
@@ -189,7 +211,7 @@ $ python setup.py test
 
 ---
 
-# [fit] 6
+# [fit] 8
 
 ---
 
@@ -207,7 +229,7 @@ $ python setup.py test
 
 ---
 
-# [fit] 7
+# [fit] 9
 
 ---
 
@@ -221,7 +243,7 @@ $ python setup.py test
 
 ---
 
-# [fit] 8
+# [fit] 10
 
 ---
 
