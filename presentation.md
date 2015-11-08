@@ -8,6 +8,10 @@
 
 ---
 
+> <http://j.mp/myles-pyconca-2015>
+
+---
+
 # [fit] A Little About Me
 
 ^ I was intoduced to the open source world though Red Hat 7.3 when I was 16.
@@ -257,9 +261,7 @@ $ python setup.py test
 
 ---
 
-# Thank You for Your Time
-
-* <https://github.com/myles/2015-11-08-Take-a-Stroll-in-the-Bazaar>
+> <http://j.mp/myles-pyconca-2015>
 
 ---
 
